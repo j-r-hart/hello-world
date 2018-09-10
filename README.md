@@ -1,2 +1,3 @@
 # hello-world
-First steps
+First steps complete
+Second steps in progress
